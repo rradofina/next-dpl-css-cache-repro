@@ -1,0 +1,12 @@
+{
+  "name": "next-dpl-css-cache-repro",
+  "private": true,
+  "scripts": {
+    "build": "next build --webpack"
+  },
+  "dependencies": {
+    "next": "16.4.0-canary.52",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  }
+}
